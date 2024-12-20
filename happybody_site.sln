@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "happybody_site", ".", "{9C96E80D-64F1-4BB7-ADAF-54BA6FF692A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64280"
+		Debug.AspNetCompiler.PhysicalPath = "..\happybody_site\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64280\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64280"
+		Release.AspNetCompiler.PhysicalPath = "..\happybody_site\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64280\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64280"
+		SlnRelativePath = "..\happybody_site\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C96E80D-64F1-4BB7-ADAF-54BA6FF692A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C96E80D-64F1-4BB7-ADAF-54BA6FF692A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB24D49D-9AFC-40E8-A926-52DB621F1F26}
+	EndGlobalSection
+EndGlobal
